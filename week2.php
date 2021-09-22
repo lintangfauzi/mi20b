@@ -1,7 +1,7 @@
 <?php
-$nama = "Lintang";
+$nama = "Lintang fauzi";
 $kelas = "Mi20b";
-$alamat = "singaparna";
+$alamat = "sariwangi";
 $hoby = "vollyball";
 $matkul =array(
     'hard' => "progremming",
